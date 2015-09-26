@@ -1,0 +1,44 @@
+#first{
+	text-align: center;
+	width: 50%;
+	margin: auto;
+	float: none;
+}
+
+#second{
+	float: left;
+	width: 1000px;
+	margin-top: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+
+div#image img{
+	position: absolute;
+	left: 900px;
+	top:10px;
+	width:20%;
+	height:30%;
+}
+
+#name{
+	font-weight: bold;
+	font-size: 50px;
+	font-style: italic;
+	font-family: cursive;
+	color: purple;
+	margin-bottom: 0px;
+}
+
+#info{
+	margin-top: 0px;
+	font-size: 18px;
+}
+
+.heading{
+	font-weight: bold;
+	font-size: 18px;
+	font-family: Garamond, sans-serif;
+	border-bottom: thin solid blue;
+}
+
